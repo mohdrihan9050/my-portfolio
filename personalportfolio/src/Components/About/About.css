@@ -1,0 +1,15 @@
+.about>:nth-child(1){
+    font-size: 2.5rem;
+    color: var(--gray);
+}
+.a-right>:nth-child(1){
+    font-size: 22px;
+    color: var(--gray);
+}
+@media screen and (max-width: 600px) {
+    .mobile{
+        padding-top: 2rem;
+    }
+  }
+
+

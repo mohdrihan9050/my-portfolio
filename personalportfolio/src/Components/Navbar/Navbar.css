@@ -1,0 +1,31 @@
+.bg-custom{
+    /* margin: 0 4px 0 4px ; */
+    padding: 0 4px 0 4px;
+    background-color:rgb(255, 255, 255)!important;
+    border-bottom:1.5px solid var(--orange);
+    justify-content: center;
+}
+
+.n-button{
+    width: 7rem;
+    height: 7vh;
+}
+.navbar .navbar-brand{
+    font-size: 30px;
+    color: var(--orange);
+}
+
+.bg-custom .nav-item .nav-link:hover{
+    color: var(--orange);
+    border-bottom: 1.5px solid var(--orange);
+    cursor: pointer;
+    padding-bottom: 2px;
+
+}
+.navbar-toggler{
+    box-shadow: none !important;
+    border: 1.5px solid var(--orange) !important;
+}
+/* .activeClass{
+    color: aliceblue;
+} */

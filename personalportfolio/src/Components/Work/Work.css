@@ -1,0 +1,22 @@
+.work{
+    font-size: 2.5rem;
+    color: var(--orange);
+}
+.card h5{
+    font-size: 22px;
+    color: var(--orange);
+}
+.card p{
+  
+    font-size: 18px;
+    color: black;
+}
+.card a{
+    font-size: 20px;
+    color: var(--orange);
+}
+.w-cards>*{
+    border-top: 5px solid var(--orange);
+    border-bottom: 5px solid var(--orange);
+    border-radius: 20px;
+}

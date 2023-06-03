@@ -1,0 +1,36 @@
+.cont>:nth-child(3){
+    font-size: 22px;
+    color: var(--gray);
+
+}
+.cont{
+    gap: 1rem!important;
+}
+
+.mail a{
+    text-decoration: none;
+}
+.call a{
+    text-decoration: none;
+}
+.form-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.box-size{
+    width: 15rem;
+    outline: none;
+    border: 0;
+    border-bottom: 3px solid var(--orange);
+    border-radius: 30px;
+    background-color: black;
+}
+.box-size:focus{
+    border-bottom: 3px solid var(--orange);
+}
+.form-control:focus{
+    box-shadow: none;
+}
