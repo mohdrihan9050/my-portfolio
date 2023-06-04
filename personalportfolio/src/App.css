@@ -17,6 +17,8 @@
 body{
   background-color: rgb(11, 1, 1);
   text-align: justify;
+  overflow-x: hidden;
+  overflow-y: scroll;
   /* text-justify: inter-word; */
 }
 p{
