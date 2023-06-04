@@ -21,10 +21,10 @@
 }
 .img1{
     margin-top:0.18em;
-    width: 100%;
+    width: 108%;
     height: 89.5vh;
     border-radius: 10px;
-}
+    }
 .h-icon{
     display: flex;
     gap: 1rem;

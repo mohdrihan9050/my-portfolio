@@ -10,7 +10,7 @@ const Home=()=>{
             <div className="row mt-5 ">
                 <div  className="left  col-lg-6 col-md-6 col-sm-12 col-12 g-5">
                 <span data-aos="fade-right">Hey! I am</span>
-                <span data-aos="fade-left">Mohd Rihan</span>
+                <span data-aos="fade-left" >Mohd Rihan</span>
                 <span data-aos="fade-right">(Frontend Developer)</span>
 
                 <a data-aos="zoom-in" href={resume} download>
