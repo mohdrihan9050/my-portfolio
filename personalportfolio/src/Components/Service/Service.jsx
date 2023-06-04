@@ -9,7 +9,6 @@ const Service=()=>{
                         <span >My </span>
                         <span>Services</span>
                         <span>Frontend Developer with experince in web designing an development the quality work</span>
-            
                         <span className='mt-3'>I   bring  <span className='text-decoration-underline'>  Ideas</span>  to web.</span>
                         <div className="blur-2" style={{top:'250%'}}></div>
                     </div>
@@ -19,9 +18,9 @@ const Service=()=>{
                 <div data-aos="flip-up" className="cards col-lg-4 col-md-6 col-sm-12 col-12 ">
                     <div className="card shadow work-card text-dark">
                         <div className="text-center"><img src={Glass} className='card-img-top' /></div>
-                    <div className="card-body ">
+                        <div className="card-body ">
                         <h5 className='card-title text-center'>Frontend technologies</h5>
-                        <p className="card-text text-center"> HTML, CSS, Bootstrap, React-js, Redux</p>
+                        <p className="card-text text-center">Bootstrap, JavaScript, React-js, Redux, redux-toolkit</p>
                     </div>
                     </div>
                 </div>
@@ -31,7 +30,7 @@ const Service=()=>{
                     <div className="text-center"><img src={Glass} className='card-img-top' /></div>
                     <div className="card-body">
                     <h5 className='card-title'>Languages</h5>
-                        <p className="card-text"> C , C++</p>
+                        <p className="card-text"> C <br/> C++</p>
                     </div>
                     </div>
 
@@ -42,7 +41,7 @@ const Service=()=>{
                     <div className="text-center"><img src={Glass} className='card-img-top'/></div>
                     <div className="card-body">
                         <h5 className='card-title'>DataBase</h5>
-                        <p className="card-text"> MySQL</p>
+                        <p className="card-text"> MySQL <br/> MongoDB</p>
                     </div>
                     </div> 
 

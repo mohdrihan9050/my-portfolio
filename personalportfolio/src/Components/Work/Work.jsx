@@ -9,9 +9,7 @@ const Work=()=>{
             <div className="row g-3 m-2">
                 <div className="w-cards col-lg-4 col-md-6 col-sm-12 col-12">
                     <div data-aos="zoom-in" className="card">
-                        <div  className="img-fluid">
                             <img src={work1} data-aos="flip-up"className='rounded card-img-top p-1'/>
-                        </div>
                         <div className="crad-body m-3 text-center">
                             <h5 className="card-title">Restaurant App</h5>
                             <p className="card-text ">This App is created with reactjs for Restaurant to show case there foodies online and also place order online.</p>
@@ -22,9 +20,7 @@ const Work=()=>{
 
                 <div className="w-cards col-lg-4 col-md-6 col-sm-12 col-12">
                 <div data-aos="zoom-in"className="card">
-                        <div className="img-fluid">
                             <img src={work2} data-aos="flip-up"className='card-img-top p-1'  />
-                        </div>
                         <div className="crad-body m-3 text-center">
                             <h5 className="card-title">Food ordering system</h5>
                             <p className="card-text">The Online Food ordering system is a web application in which one can order foods and beverages from restaurant through the use of internet, just by sitting at home or any place.</p>
@@ -36,14 +32,11 @@ const Work=()=>{
 
                 <div className="w-cards col-lg-4 col-md-6 col-sm-12 col-12">
                 <div data-aos="zoom-in"className="card">
-                        <div className="img-fluid">
                             <img src={work3} data-aos="flip-up"className='card-img-top p-1' />
-                        </div>
                         <div className="crad-body m-3  text-center">
                             <h5 className="card-title">Personal Portfolio</h5>
                             <p className="card-text">Constructed a personalized portfolio website with React, showcasing work history, academic accomplishments,
-                            technical skills, and extracurricular activities.
-</p>
+                            technical skills, and extracurricular activities.</p>
                             <a href="#">click here to see</a>
 
                         </div>

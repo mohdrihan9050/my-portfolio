@@ -10,7 +10,7 @@ const About =()=>{
 
                 </div>
                 <div data-aos="fade-down"className="a-right col-lg-8 col-md-6 col-sm-12 col-12 mt-4 pt-5 ">
-                    <span >Hello , I am Mohd Rihan from Bijnor, Uttar Pradesh, India.Recently i complete my post gradution in Master's of Computer Application (2023) from Kamla Nehru Institute of Technology , Sultanpur.<br/>As a fron-tend developer i have solid understanding of front-end technologies and web developing principle.</span>
+                    <span >Hello , I am Mohd Rihan from Bijnor, Uttar Pradesh, India. Recently I complete my post gradution in Master's of Computer Application (2023) from Kamla Nehru Institute of Technology , Sultanpur.<br/>As a fron-tend developer i have solid understanding of front-end technologies such as JavaScript , React-js , Redux, Redux-toolkit and web developing principle.</span>
                     <div className="blur-1" style={{top:'170%'}}></div>
 
                 <div className='d-flex justify-content-end me-5'>
