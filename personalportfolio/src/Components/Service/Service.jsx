@@ -30,7 +30,7 @@ const Service=()=>{
                     <div className="text-center"><img src={Glass} className='card-img-top' /></div>
                     <div className="card-body">
                     <h5 className='card-title'>Languages</h5>
-                        <p className="card-text"> C <br/> C++</p>
+                        <p className="card-text"> Java <br/> OOP's</p>
                     </div>
                     </div>
 
@@ -41,7 +41,7 @@ const Service=()=>{
                     <div className="text-center"><img src={Glass} className='card-img-top'/></div>
                     <div className="card-body">
                         <h5 className='card-title'>DataBase</h5>
-                        <p className="card-text"> MySQL <br/> MongoDB</p>
+                        <p className="card-text"> MySQL <br/> </p>
                     </div>
                     </div> 
 
